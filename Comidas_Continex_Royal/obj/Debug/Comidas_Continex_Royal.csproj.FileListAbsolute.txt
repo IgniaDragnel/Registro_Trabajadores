@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\bin\Debug\Comidas_Continex_Royal.exe.config
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\bin\Debug\Comidas_Continex_Royal.exe
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\bin\Debug\Comidas_Continex_Royal.pdb
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\obj\Debug\Comidas_Continex_Royal.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\obj\Debug\Comidas_Continex_Royal.Form1.resources
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\obj\Debug\Comidas_Continex_Royal.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\obj\Debug\Comidas_Continex_Royal.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\obj\Debug\Comidas_Continex_Royal.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\obj\Debug\Comidas_Continex_Royal.exe
+C:\Users\USUARIO\source\repos\Comidas_Continex_Royal\Comidas_Continex_Royal\obj\Debug\Comidas_Continex_Royal.pdb
