@@ -27,8 +27,6 @@ namespace PaginaPrincipal
         private String cod_usuario = "APP";
         private SqlConnection Conexion;
 
-        //private SqlConnection ConexionR = new SqlConnection("Server=192.168.3.5;DataBase= BaseRoyal;Integrated Security=true");
-
         private void horafecha_Tick(object sender, EventArgs e)
         {
             lblHora.Text = DateTime.Now.ToLongTimeString();
@@ -152,7 +150,7 @@ namespace PaginaPrincipal
             switch (cmbFinca.SelectedItem)
             {
                 case "Continex":
-                    Conexion = new SqlConnection("Server=192.168.4.6;DataBase=PERCONTINEX;User Id=spyral;Password=spyral;");
+                    Conexion = new SqlConnection("");
                     cod_empresa = "2";
                     CargarProveedor();
                     CargarTipoComidaC();
@@ -160,7 +158,7 @@ namespace PaginaPrincipal
                     NombresEmpleados();
                     break;
                 case "Royal":
-                    Conexion = new SqlConnection("Server=192.168.3.5;DataBase=PERSONALFINCA;User Id=spyral;Password=spyral;");
+                    Conexion = new SqlConnection("");
                     cod_empresa = "1";
                     CargarProveedor();
                     CargarTipoComidaC();
